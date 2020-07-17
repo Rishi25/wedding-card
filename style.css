@@ -23,7 +23,7 @@ body {
 }
 
 .flip-card-container {
-	width: 360px;
+	width: 340px;
 	height: 480px;
 	perspective: 1000px;
 }
